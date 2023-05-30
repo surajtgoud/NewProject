@@ -1,0 +1,2 @@
+# NewProject
+Explaining Git commands
